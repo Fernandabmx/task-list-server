@@ -1,0 +1,7 @@
+¿Qué es mi producto y para qué sirve?
+
+Mi producto es una herramienta digital que te ayuda a organizar todas tus tareas y pendientes de forma fácil y práctica. Es como tu agenda personal en la que puedes escribir todo lo que necesitas hacer, ya sea para el trabajo, estudio o vida diaria. Te permite mantener un registro de tus responsabilidades y metas, ayudándote a no olvidar nada importante y a cumplir con tus objetivos en tiempo y forma. En resumen, es tu asistente virtual para mantener todo en orden y lograr tus metas de manera más sencilla y eficiente.
+
+¿Cuáles son las funcionalidades más importantes y porque los usuarios las usarían?
+
+Nuestra lista de tareas funcional ofrece a los usuarios la posibilidad de organizar fácilmente sus responsabilidades, establecer recordatorios para no perder plazos importantes, acceder a ellas desde cualquier dispositivo para mantenerse en control en todo momento, colaborar eficazmente con otros en proyectos comunes y obtener análisis sobre su desempeño, permitiéndoles mejorar su productividad y lograr sus metas de manera más eficiente. Estas funcionalidades se traducen en una gestión de tareas más efectiva y menos estresante, brindando a los usuarios el apoyo necesario para alcanzar sus objetivos cotidianos y metas a largo plazo.
